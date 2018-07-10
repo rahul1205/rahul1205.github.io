@@ -39,7 +39,7 @@ var sections = [
 		},
 		{	sentence: " curious to know you",
 		},
-		{	sentence: " trying to build up him portfolio",
+		{	sentence: " trying to build up his portfolio",
 		},
 		{	sentence: " a Dragon Ball Z fan",
 		}

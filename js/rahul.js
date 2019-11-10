@@ -29,7 +29,7 @@ var sections = [
 		},
 		{	sentence: " is a machine learning enthusiast",
 		},
-		{	sentence: " a full stack developer @Thoughts2Binary",
+		{	sentence: " a Masters student @Dalhousie University",
 		},
 		{	sentence: " thinking of beaches and blue water",
 		},

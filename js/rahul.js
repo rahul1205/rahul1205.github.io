@@ -3,7 +3,7 @@
     GLOBALS 
 -------------------------*/
 var sections = [
-		{	sentence: " an enthusiastic developer based in India",
+		{	sentence: " an enthusiastic developer based in Halifax",
 		},
 		{	sentence: " a lover of learning new things",
 		},

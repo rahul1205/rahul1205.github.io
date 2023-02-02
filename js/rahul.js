@@ -7,8 +7,6 @@ var sections = [
 		},
 		{	sentence: " a lover of learning new things",
 		},
-		{	sentence: " is a DoTA2 player xD",
-		},
 		{	sentence: " complaining about stuff",
 		},
 		{	sentence: " a food hogger",
